@@ -1,5 +1,5 @@
 
-###Diamond Information: Plotting and Data Transformation - R</h3>
+### Diamond Information: Plotting and Data Transformation - R
 
 <p><strong>Log-transforming diamond price and carat improved regression assumptions and model fit.</strong></p>
 
